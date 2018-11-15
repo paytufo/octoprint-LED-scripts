@@ -1,0 +1,1 @@
+# Can you explain in the "readme" how to insert the gcode in the script to get the different colors when the printer is warming/printing/cooling...?? I put the code in G-Code Systems and my scripts but nothing hapens. Thank you.
